@@ -1,8 +1,9 @@
 # ML_Lab2[ML_Lab2.pdf](https://github.com/camrose00/ML_Lab2/files/11102227/ML_Lab2.pdf)
 
 
-This dataset is a collection of 4600 images of brain x-rays of patient diagnosed of brain tumor posted on 
-https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset? resource=download by Preet Viradiya. The dataset is split into two categories: healthy 
+This dataset is a collection of 4600 images of brain x-rays of patient diagnosed of brain tumor posted on Kaggle by Preet Viradiya.
+https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset 
+The dataset is split into two categories: healthy 
 and tumor. 2513 of the images are cancerous brains and 2087 of them is healthy.
 A brain tumor is a growth of abnormal cells in the brain. Two main groups of brain tumor are termed as benign tumor and malignant(cancerous) tumor. The 
 purpose of the dataset is analyzing the image data of x-rays to identify the tumor, pinpoint its location, and assess the function of the brain. Due to the 
