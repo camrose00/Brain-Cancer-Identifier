@@ -1,4 +1,4 @@
-# ML_Lab2[ML_Lab2.pdf](https://github.com/camrose00/ML_Lab2/files/11102227/ML_Lab2.pdf)
+# [ML_Lab2.pdf](https://github.com/camrose00/ML_Lab2/files/11102227/ML_Lab2.pdf)
 
 
 This dataset is a collection of 4600 images of brain x-rays of patient diagnosed of brain tumor posted on Kaggle by Preet Viradiya.
